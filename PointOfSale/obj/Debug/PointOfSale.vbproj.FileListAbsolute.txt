@@ -1,0 +1,15 @@
+H:\PointOfSale\bin\Debug\PointOfSale.exe.config
+H:\PointOfSale\bin\Debug\PointOfSale.exe
+H:\PointOfSale\bin\Debug\PointOfSale.pdb
+H:\PointOfSale\bin\Debug\PointOfSale.xml
+H:\PointOfSale\obj\Debug\PointOfSale.vbprojResolveAssemblyReference.cache
+H:\PointOfSale\obj\Debug\PointOfSale.frmMain.resources
+H:\PointOfSale\obj\Debug\PointOfSale.Resources.resources
+H:\PointOfSale\obj\Debug\PointOfSale.frmSale.resources
+H:\PointOfSale\obj\Debug\PointOfSale.vbproj.GenerateResource.Cache
+H:\PointOfSale\obj\Debug\PointOfSale.exe
+H:\PointOfSale\obj\Debug\PointOfSale.xml
+H:\PointOfSale\obj\Debug\PointOfSale.pdb
+H:\PointOfSale\obj\Debug\PointOfSale.Reciept.resources
+H:\PointOfSale\obj\Debug\PointOfSale.frmAbout.resources
+H:\PointOfSale\obj\Debug\PointOfSale.frmHelp.resources
